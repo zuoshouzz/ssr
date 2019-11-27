@@ -16,7 +16,7 @@ python ssr-python2.py
 Python3 环境执行:
 
 ```
-python3 ssr-pythno3.py
+python3 ssr-python3.py
 ```
 
 或者
@@ -26,3 +26,5 @@ python ssr-python3.py
 ```
 
 然后会再目录下生成ssr文件
+
+演示视频：https://www.youtube.com/watch?v=HriCtJIFuLk
